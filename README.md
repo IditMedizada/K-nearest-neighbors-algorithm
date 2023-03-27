@@ -66,8 +66,8 @@ Termination of client-server communication. The server will continue to accept o
 #### Installing And Executing 
 First to run the program you need to install git on your computer.      
 Open the command line and follow the following commands:    
-`git clone -b main4 https://github.com/AdiSchiff/Idit-Adi.git`   
-`cd Idit-Adi`    
+`git clone https://github.com/IditMedizada/K-nearest-neighbors-algorithm.git`   
+`cd K-nearest-neighbors-algorithm`    
 open 2 terminals:    
 1. Server   
 `make`    
