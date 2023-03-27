@@ -1,9 +1,4 @@
-/*
-Ex 4
-Idit Medizada 318879293
-Adi Schiff 212730675
-https://github.com/AdiSchiff/Idit-Adi.git
-*/
+
 
 #ifndef CANBERRADISTANCE_H_
 #define CANBERRADISTANCE_H_
